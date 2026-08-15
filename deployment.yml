@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: cicdproject
-          image: 20223049/ultimate-cicd:replaceImageTag
+          image: 20223049/ultimate-cicd:8
           ports:
             - containerPort: 8080
