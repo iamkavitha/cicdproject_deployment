@@ -1,0 +1,9 @@
+replicaCount: 2
+
+image:
+  repository: 20223049/ultimate-cicd
+  tag: replaceImageTag
+  pullPolicy: IfNotPresent
+
+container:
+  port: 8080

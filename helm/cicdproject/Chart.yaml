@@ -1,0 +1,6 @@
+apiVersion: v2
+name: cicdproject
+description: Helm chart for CICD Project
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
