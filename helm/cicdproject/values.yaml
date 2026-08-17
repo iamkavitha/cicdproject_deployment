@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: 20223049/ultimate-cicd
-  tag: "17"
+  tag: "18"
   pullPolicy: IfNotPresent
 
 container:
